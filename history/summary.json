@@ -11,30 +11,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 270,
-    "timeWeek": 256,
+    "timeDay": 260,
+    "timeWeek": 254,
     "timeMonth": 258,
     "timeYear": 250,
     "dailyMinutesDown": {}
   },
   {
     "name": "Plex",
-    "url": "http://snazcat.com",
-    "icon": "https://favicons.githubusercontent.com/snazcat.com",
+    "url": "snazcat.com",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex",
-    "status": "down",
-    "uptime": "79.09%",
-    "uptimeDay": "79.09%",
-    "uptimeWeek": "79.09%",
-    "uptimeMonth": "79.09%",
-    "uptimeYear": "79.09%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "9.88%",
+    "uptimeDay": "9.88%",
+    "uptimeWeek": "9.88%",
+    "uptimeMonth": "9.88%",
+    "uptimeYear": "9.88%",
+    "time": 75,
+    "timeDay": 75,
+    "timeWeek": 75,
+    "timeMonth": 75,
+    "timeYear": 75,
     "dailyMinutesDown": {
-      "2021-08-23": 0
+      "2021-08-23": 5
     }
   }
 ]
