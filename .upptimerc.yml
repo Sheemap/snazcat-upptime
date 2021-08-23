@@ -6,7 +6,8 @@ sites:
   - name: Foundry
     url: $FOUNDRY
   - name: Plex
-    url: http://snazcat.com
+    check: "tcp-ping"
+    url: snazcat.com
     port: 32400
 
 status-website:
