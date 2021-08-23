@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 260,
+    "timeDay": 258,
     "timeWeek": 254,
     "timeMonth": 258,
     "timeYear": 250,
@@ -19,8 +19,8 @@
   },
   {
     "name": "Plex",
-    "url": "snazcat.com",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "url": "http://snazcat.com:32400",
+    "icon": "https://favicons.githubusercontent.com/snazcat.com",
     "slug": "plex",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 75,
-    "timeDay": 75,
-    "timeWeek": 75,
-    "timeMonth": 75,
-    "timeYear": 75,
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   }
 ]
