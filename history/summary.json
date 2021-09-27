@@ -6,17 +6,16 @@
     "slug": "foundry",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 338,
-    "timeDay": 404,
-    "timeWeek": 1359,
-    "timeMonth": 650,
+    "timeDay": 350,
+    "timeWeek": 1369,
+    "timeMonth": 653,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2021-09-26": 6,
       "2021-09-23": 14,
       "2021-09-22": 25
     }
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 271,
-    "timeWeek": 200,
-    "timeMonth": 202,
+    "timeDay": 202,
+    "timeWeek": 197,
+    "timeMonth": 203,
     "timeYear": 198,
     "dailyMinutesDown": {}
   }
