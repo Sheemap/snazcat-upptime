@@ -4,10 +4,10 @@
     "url": "$FOUNDRY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "foundry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 339,
@@ -15,14 +15,16 @@
     "timeWeek": 344,
     "timeMonth": 666,
     "timeYear": 339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-08": 1
+    }
   },
   {
     "name": "Plex",
     "url": "http://snazcat.com:32400",
     "icon": "https://favicons.githubusercontent.com/snazcat.com",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 185,
     "timeMonth": 196,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-08": 0
+    }
   }
 ]
