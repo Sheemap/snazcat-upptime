@@ -4,10 +4,10 @@
     "url": "$FOUNDRY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "foundry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 322,
@@ -16,6 +16,7 @@
     "timeMonth": 226,
     "timeYear": 322,
     "dailyMinutesDown": {
+      "2021-12-25": 1,
       "2021-10-20": 17,
       "2021-10-15": 389,
       "2021-10-08": 359
@@ -26,9 +27,9 @@
     "url": "http://snazcat.com:32400",
     "icon": "https://favicons.githubusercontent.com/snazcat.com",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
@@ -38,6 +39,7 @@
     "timeMonth": 139,
     "timeYear": 175,
     "dailyMinutesDown": {
+      "2021-12-25": 0,
       "2021-10-20": 16,
       "2021-10-15": 389,
       "2021-10-08": 558
