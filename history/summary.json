@@ -30,7 +30,7 @@
     "url": "http://snazcat.com:32400",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
     "uptimeDay": "89.69%",
     "uptimeWeek": "98.53%",
@@ -42,6 +42,7 @@
     "timeMonth": 163,
     "timeYear": 228,
     "dailyMinutesDown": {
+      "2023-02-09": 0,
       "2023-02-08": 148,
       "2022-12-06": 128,
       "2022-10-08": 306,
