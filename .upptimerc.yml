@@ -10,6 +10,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  - name: Pterodactyl Panel
+    url: http://panel.snazcat.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
