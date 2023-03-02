@@ -4,18 +4,19 @@
     "url": "$FOUNDRY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.85%",
-    "time": 344,
+    "time": 345,
     "timeDay": 245,
     "timeWeek": 279,
     "timeMonth": 309,
     "timeYear": 371,
     "dailyMinutesDown": {
+      "2023-03-02": 1,
       "2023-02-08": 156,
       "2022-12-06": 182,
       "2022-10-08": 38,
@@ -30,10 +31,10 @@
     "url": "http://snazcat.com:32400",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.52%",
     "time": 210,
@@ -42,6 +43,7 @@
     "timeMonth": 200,
     "timeYear": 231,
     "dailyMinutesDown": {
+      "2023-03-02": 1,
       "2023-02-10": 39,
       "2023-02-09": 35,
       "2023-02-08": 148,
@@ -57,9 +59,9 @@
     "url": "https://panel.snazcat.com",
     "icon": "https://icons.duckduckgo.com/ip3/panel.snazcat.com.ico",
     "slug": "pterodactyl-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -68,6 +70,8 @@
     "timeWeek": 296,
     "timeMonth": 302,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-02": 0
+    }
   }
 ]
