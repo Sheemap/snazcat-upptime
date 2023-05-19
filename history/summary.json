@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 358,
-    "timeDay": 226,
-    "timeWeek": 1349,
-    "timeMonth": 522,
+    "timeDay": 232,
+    "timeWeek": 1226,
+    "timeMonth": 514,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2023-02-08": 156,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
     "time": 218,
-    "timeDay": 138,
-    "timeWeek": 147,
-    "timeMonth": 206,
+    "timeDay": 145,
+    "timeWeek": 148,
+    "timeMonth": 204,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2023-03-28": 35,
@@ -63,13 +63,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 360,
-    "timeDay": 287,
+    "time": 359,
+    "timeDay": 289,
     "timeWeek": 286,
-    "timeMonth": 338,
-    "timeYear": 360,
+    "timeMonth": 336,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2023-05-09": 26
     }
+  },
+  {
+    "name": "Plex Requests",
+    "url": "https://plexrequests.snazcat.com",
+    "icon": "https://icons.duckduckgo.com/ip3/plexrequests.snazcat.com.ico",
+    "slug": "plex-requests",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 233,
+    "timeDay": 233,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
+    "dailyMinutesDown": {}
   }
 ]
