@@ -77,19 +77,19 @@
     "url": "https://plexrequests.snazcat.com",
     "icon": "https://icons.duckduckgo.com/ip3/plexrequests.snazcat.com.ico",
     "slug": "plex-requests",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 605,
-    "timeWeek": 392,
-    "timeMonth": 392,
-    "timeYear": 392,
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 445,
+    "timeDay": 632,
+    "timeWeek": 445,
+    "timeMonth": 445,
+    "timeYear": 445,
     "dailyMinutesDown": {
-      "2023-05-22": 0
+      "2023-05-22": 18
     }
   }
 ]
