@@ -77,9 +77,9 @@
     "url": "https://plexrequests.snazcat.com",
     "icon": "https://icons.duckduckgo.com/ip3/plexrequests.snazcat.com.ico",
     "slug": "plex-requests",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -88,6 +88,8 @@
     "timeWeek": 392,
     "timeMonth": 392,
     "timeYear": 392,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-22": 0
+    }
   }
 ]
