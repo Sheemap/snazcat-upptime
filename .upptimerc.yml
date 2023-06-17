@@ -14,6 +14,19 @@ sites:
     url: https://panel.snazcat.com
   - name: Plex Requests
     url: https://plexrequests.snazcat.com
+  - name: Kopia
+    url: http://snazcat.com:6969/kopia
+  - name: Jackett
+    url: http://snazcat.com:6969/jackett
+  - name: Radarr
+    url: http://snazcat.com:6969/radarr
+  - name: Sonarr
+    url: http://snazcat.com:6969/sonarr
+  - name: qBit
+    url: http://snazcat.com:6969/qbit
+  - name: Tautulli
+    url: http://snazcat.com:6969/tautulli
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
