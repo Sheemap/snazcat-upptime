@@ -4,18 +4,19 @@
     "url": "$FOUNDRY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.86%",
-    "time": 380,
+    "time": 381,
     "timeDay": 259,
     "timeWeek": 253,
-    "timeMonth": 264,
+    "timeMonth": 260,
     "timeYear": 412,
     "dailyMinutesDown": {
+      "2023-07-28": 3,
       "2023-06-28": 40,
       "2023-06-20": 16,
       "2023-06-05": 17,
@@ -30,18 +31,19 @@
     "url": "http://snazcat.com:32400",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.52%",
-    "time": 228,
+    "time": 229,
     "timeDay": 145,
     "timeWeek": 153,
     "timeMonth": 159,
     "timeYear": 248,
     "dailyMinutesDown": {
+      "2023-07-28": 3,
       "2023-06-20": 15,
       "2023-03-28": 35,
       "2023-02-10": 39,
@@ -58,11 +60,11 @@
     "url": "https://panel.snazcat.com",
     "icon": "https://icons.duckduckgo.com/ip3/panel.snazcat.com.ico",
     "slug": "pterodactyl-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 335,
     "timeDay": 312,
@@ -70,6 +72,7 @@
     "timeMonth": 294,
     "timeYear": 335,
     "dailyMinutesDown": {
+      "2023-07-28": 2,
       "2023-05-09": 26
     }
   },
@@ -78,10 +81,10 @@
     "url": "https://plexrequests.snazcat.com",
     "icon": "https://icons.duckduckgo.com/ip3/plexrequests.snazcat.com.ico",
     "slug": "plex-requests",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 551,
@@ -90,6 +93,7 @@
     "timeMonth": 544,
     "timeYear": 551,
     "dailyMinutesDown": {
+      "2023-07-28": 2,
       "2023-05-22": 18
     }
   },
@@ -98,10 +102,10 @@
     "url": "http://snazcat.com:6969/kopia",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "kopia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
@@ -109,17 +113,19 @@
     "timeWeek": 160,
     "timeMonth": 160,
     "timeYear": 159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-28": 1
+    }
   },
   {
     "name": "Jackett",
     "url": "http://snazcat.com:6969/jackett",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "jackett",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 60,
@@ -127,16 +133,18 @@
     "timeWeek": 53,
     "timeMonth": 58,
     "timeYear": 60,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-28": 1
+    }
   },
   {
     "name": "Radarr",
     "url": "http://snazcat.com:6969/radarr",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,7 +153,9 @@
     "timeWeek": 55,
     "timeMonth": 57,
     "timeYear": 59,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-28": 0
+    }
   },
   {
     "name": "Sonarr",
