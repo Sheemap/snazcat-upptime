@@ -6,9 +6,9 @@
     "slug": "foundry",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.86%",
     "time": 399,
     "timeDay": 199,
@@ -16,7 +16,7 @@
     "timeMonth": 555,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2023-08-20": 7,
+      "2023-08-20": 15,
       "2023-06-28": 40,
       "2023-06-20": 16,
       "2023-06-05": 17,
@@ -31,11 +31,11 @@
     "url": "http://snazcat.com:32400",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.52%",
     "time": 229,
     "timeDay": 122,
@@ -43,6 +43,7 @@
     "timeMonth": 152,
     "timeYear": 249,
     "dailyMinutesDown": {
+      "2023-08-20": 3,
       "2023-06-20": 15,
       "2023-03-28": 35,
       "2023-02-10": 39,
@@ -59,10 +60,10 @@
     "url": "https://panel.snazcat.com",
     "icon": "https://icons.duckduckgo.com/ip3/panel.snazcat.com.ico",
     "slug": "pterodactyl-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 399,
@@ -71,7 +72,7 @@
     "timeMonth": 694,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2023-08-20": 5,
+      "2023-08-20": 3,
       "2023-05-09": 26
     }
   },
@@ -80,11 +81,11 @@
     "url": "https://plexrequests.snazcat.com",
     "icon": "https://icons.duckduckgo.com/ip3/plexrequests.snazcat.com.ico",
     "slug": "plex-requests",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 648,
     "timeDay": 977,
@@ -92,7 +93,7 @@
     "timeMonth": 842,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2023-08-20": 5,
+      "2023-08-20": 2,
       "2023-05-22": 18
     }
   },
@@ -101,11 +102,11 @@
     "url": "http://snazcat.com:6969/kopia",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "kopia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.88%",
     "time": 224,
     "timeDay": 122,
@@ -113,6 +114,7 @@
     "timeMonth": 291,
     "timeYear": 224,
     "dailyMinutesDown": {
+      "2023-08-20": 1,
       "2023-08-03": 111
     }
   },
@@ -121,9 +123,9 @@
     "url": "http://snazcat.com:6969/jackett",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "jackett",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,7 +134,9 @@
     "timeWeek": 52,
     "timeMonth": 59,
     "timeYear": 60,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-20": 0
+    }
   },
   {
     "name": "Radarr",
