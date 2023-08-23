@@ -81,9 +81,9 @@
     "slug": "plex-requests",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 679,
     "timeDay": 438,
@@ -91,7 +91,7 @@
     "timeMonth": 909,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2023-08-23": 3,
+      "2023-08-23": 6,
       "2023-08-20": 16,
       "2023-05-22": 18
     }
@@ -101,19 +101,19 @@
     "url": "http://snazcat.com:6969/kopia",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "kopia",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.88%",
-    "time": 220,
-    "timeDay": 193,
-    "timeWeek": 147,
-    "timeMonth": 285,
-    "timeYear": 220,
+    "time": 227,
+    "timeDay": 390,
+    "timeWeek": 211,
+    "timeMonth": 298,
+    "timeYear": 227,
     "dailyMinutesDown": {
-      "2023-08-23": 3,
+      "2023-08-23": 6,
       "2023-08-03": 111
     }
   },
@@ -122,19 +122,19 @@
     "url": "http://snazcat.com:6969/jackett",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "jackett",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 61,
-    "timeDay": 55,
-    "timeWeek": 59,
-    "timeMonth": 60,
-    "timeYear": 61,
+    "uptimeYear": "99.99%",
+    "time": 64,
+    "timeDay": 124,
+    "timeWeek": 80,
+    "timeMonth": 65,
+    "timeYear": 64,
     "dailyMinutesDown": {
-      "2023-08-23": 2
+      "2023-08-23": 5
     }
   },
   {
@@ -143,18 +143,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "radarr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 59,
     "timeDay": 53,
     "timeWeek": 49,
     "timeMonth": 57,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2023-08-23": 2
+      "2023-08-23": 5
     }
   },
   {
@@ -164,9 +164,9 @@
     "slug": "sonarr",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 59,
     "timeDay": 55,
@@ -174,7 +174,7 @@
     "timeMonth": 57,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2023-08-23": 1
+      "2023-08-23": 4
     }
   },
   {
@@ -182,19 +182,19 @@
     "url": "http://snazcat.com:6969/qbit",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "q-bit",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 59,
-    "timeDay": 55,
-    "timeWeek": 47,
-    "timeMonth": 55,
-    "timeYear": 59,
+    "time": 60,
+    "timeDay": 92,
+    "timeWeek": 60,
+    "timeMonth": 58,
+    "timeYear": 60,
     "dailyMinutesDown": {
-      "2023-08-23": 1
+      "2023-08-23": 4
     }
   },
   {
@@ -204,9 +204,9 @@
     "slug": "tautulli",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 63,
     "timeDay": 54,
@@ -214,7 +214,7 @@
     "timeMonth": 58,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2023-08-23": 0
+      "2023-08-23": 3
     }
   }
 ]
