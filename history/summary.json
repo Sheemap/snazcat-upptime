@@ -6,9 +6,9 @@
     "slug": "foundry",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.85%",
     "time": 431,
     "timeDay": 234,
@@ -16,7 +16,6 @@
     "timeMonth": 986,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2023-08-23": 11,
       "2023-08-20": 23,
       "2023-06-28": 40,
       "2023-06-20": 16,
@@ -34,9 +33,9 @@
     "slug": "plex",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 250,
     "timeDay": 184,
@@ -44,7 +43,6 @@
     "timeMonth": 538,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-08-23": 10,
       "2023-06-20": 15,
       "2023-03-28": 35,
       "2023-02-10": 39,
@@ -63,9 +61,9 @@
     "slug": "pterodactyl-panel",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 412,
     "timeDay": 308,
@@ -73,7 +71,6 @@
     "timeMonth": 754,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2023-08-23": 10,
       "2023-05-09": 26
     }
   },
@@ -82,11 +79,11 @@
     "url": "https://plexrequests.snazcat.com",
     "icon": "https://icons.duckduckgo.com/ip3/plexrequests.snazcat.com.ico",
     "slug": "plex-requests",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 679,
     "timeDay": 438,
@@ -94,7 +91,7 @@
     "timeMonth": 909,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2023-08-23": 9,
+      "2023-08-23": 3,
       "2023-08-20": 16,
       "2023-05-22": 18
     }
@@ -104,11 +101,11 @@
     "url": "http://snazcat.com:6969/kopia",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "kopia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.88%",
     "time": 220,
     "timeDay": 193,
@@ -116,7 +113,7 @@
     "timeMonth": 285,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2023-08-23": 9,
+      "2023-08-23": 3,
       "2023-08-03": 111
     }
   },
@@ -125,19 +122,19 @@
     "url": "http://snazcat.com:6969/jackett",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "jackett",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 61,
     "timeDay": 55,
     "timeWeek": 59,
     "timeMonth": 60,
     "timeYear": 61,
     "dailyMinutesDown": {
-      "2023-08-23": 8
+      "2023-08-23": 2
     }
   },
   {
@@ -145,19 +142,19 @@
     "url": "http://snazcat.com:6969/radarr",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "radarr",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 59,
     "timeDay": 53,
     "timeWeek": 49,
     "timeMonth": 57,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2023-08-23": 8
+      "2023-08-23": 2
     }
   },
   {
@@ -165,19 +162,19 @@
     "url": "http://snazcat.com:6969/sonarr",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "sonarr",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 59,
     "timeDay": 55,
     "timeWeek": 49,
     "timeMonth": 57,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2023-08-23": 7
+      "2023-08-23": 1
     }
   },
   {
@@ -185,19 +182,19 @@
     "url": "http://snazcat.com:6969/qbit",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "q-bit",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 59,
     "timeDay": 55,
     "timeWeek": 47,
     "timeMonth": 55,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2023-08-23": 7
+      "2023-08-23": 1
     }
   },
   {
@@ -205,19 +202,19 @@
     "url": "http://snazcat.com:6969/tautulli",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "tautulli",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 63,
     "timeDay": 54,
     "timeWeek": 48,
     "timeMonth": 58,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2023-08-23": 6
+      "2023-08-23": 0
     }
   }
 ]
