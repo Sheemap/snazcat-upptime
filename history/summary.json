@@ -79,18 +79,19 @@
     "url": "https://plexrequests.snazcat.com",
     "icon": "https://icons.duckduckgo.com/ip3/plexrequests.snazcat.com.ico",
     "slug": "plex-requests",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 693,
-    "timeDay": 573,
-    "timeWeek": 1094,
-    "timeMonth": 944,
-    "timeYear": 693,
+    "time": 688,
+    "timeDay": 386,
+    "timeWeek": 1025,
+    "timeMonth": 925,
+    "timeYear": 688,
     "dailyMinutesDown": {
+      "2023-08-25": 0,
       "2023-08-23": 15,
       "2023-08-20": 16,
       "2023-05-22": 18
@@ -101,9 +102,9 @@
     "url": "http://snazcat.com:6969/kopia",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "kopia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.89%",
@@ -113,6 +114,7 @@
     "timeMonth": 299,
     "timeYear": 226,
     "dailyMinutesDown": {
+      "2023-08-25": 0,
       "2023-08-03": 111
     }
   },
@@ -121,9 +123,9 @@
     "url": "http://snazcat.com:6969/jackett",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "jackett",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,16 +134,18 @@
     "timeWeek": 80,
     "timeMonth": 66,
     "timeYear": 63,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   },
   {
     "name": "Radarr",
     "url": "http://snazcat.com:6969/radarr",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -150,16 +154,18 @@
     "timeWeek": 60,
     "timeMonth": 59,
     "timeYear": 60,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   },
   {
     "name": "Sonarr",
     "url": "http://snazcat.com:6969/sonarr",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -168,16 +174,18 @@
     "timeWeek": 60,
     "timeMonth": 59,
     "timeYear": 60,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   },
   {
     "name": "qBit",
     "url": "http://snazcat.com:6969/qbit",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "q-bit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -186,16 +194,18 @@
     "timeWeek": 61,
     "timeMonth": 58,
     "timeYear": 60,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   },
   {
     "name": "Tautulli",
     "url": "http://snazcat.com:6969/tautulli",
     "icon": "https://icons.duckduckgo.com/ip3/snazcat.com.ico",
     "slug": "tautulli",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -204,6 +214,8 @@
     "timeWeek": 54,
     "timeMonth": 58,
     "timeYear": 63,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   }
 ]
