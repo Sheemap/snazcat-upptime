@@ -1,7 +1,7 @@
 url: http://snazcat.com:6969/sonarr
-status: up
-code: 200
-responseTime: 41
-lastUpdated: 2023-10-31T23:00:27.456Z
+status: down
+code: 500
+responseTime: 32
+lastUpdated: 2023-11-01T13:08:46.653Z
 startTime: 2023-06-17T08:01:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
