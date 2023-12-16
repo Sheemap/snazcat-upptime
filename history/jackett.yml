@@ -1,7 +1,7 @@
 url: http://snazcat.com:6969/jackett
-status: down
-code: 500
-responseTime: 317
-lastUpdated: 2023-12-16T15:14:24.225Z
+status: up
+code: 200
+responseTime: 1473
+lastUpdated: 2023-12-16T15:21:24.264Z
 startTime: 2023-06-17T08:01:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
