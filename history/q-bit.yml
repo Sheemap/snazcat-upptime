@@ -1,7 +1,7 @@
 url: http://snazcat.com:6969/qbit
-status: up
-code: 200
-responseTime: 66
-lastUpdated: 2023-12-31T23:00:25.643Z
+status: down
+code: 500
+responseTime: 68
+lastUpdated: 2024-01-01T14:13:39.675Z
 startTime: 2023-06-17T08:01:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
