@@ -1,7 +1,7 @@
 url: http://snazcat.com:6969/kopia
-status: up
-code: 200
-responseTime: 180
-lastUpdated: 2024-01-18T23:47:30.848Z
+status: down
+code: 500
+responseTime: 136
+lastUpdated: 2024-01-19T03:40:04.563Z
 startTime: 2023-06-17T08:01:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
