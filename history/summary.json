@@ -48,8 +48,7 @@
       "2023-09-01": 31,
       "2023-06-20": 15,
       "2023-03-28": 35,
-      "2023-02-10": 39,
-      "2023-02-09": 35
+      "2023-02-10": 39
     }
   },
   {
@@ -241,9 +240,9 @@
     "slug": "sonarr",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "99.46%",
     "time": 107,
     "timeDay": 53,
@@ -251,7 +250,6 @@
     "timeMonth": 97,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-02-08": 6,
       "2024-01-29": 28,
       "2024-01-28": 26,
       "2024-01-27": 21,
@@ -318,9 +316,9 @@
     "slug": "tautulli",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "99.46%",
     "time": 89,
     "timeDay": 64,
@@ -328,7 +326,6 @@
     "timeMonth": 142,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-02-08": 6,
       "2024-01-29": 28,
       "2024-01-28": 26,
       "2024-01-27": 21,
