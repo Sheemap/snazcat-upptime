@@ -1,7 +1,7 @@
 url: http://snazcat.com:32400
-status: down
-code: 503
-responseTime: 231
-lastUpdated: 2024-03-24T20:51:53.273Z
+status: up
+code: 401
+responseTime: 190
+lastUpdated: 2024-03-24T20:57:33.437Z
 startTime: 2021-08-23T21:44:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
