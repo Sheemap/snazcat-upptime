@@ -1,7 +1,7 @@
 url: http://snazcat.com:6969/radarr
-status: down
-code: 500
-responseTime: 132
-lastUpdated: 2024-04-25T13:04:34.615Z
+status: up
+code: 200
+responseTime: 161
+lastUpdated: 2024-04-25T13:12:15.809Z
 startTime: 2023-06-17T08:01:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
