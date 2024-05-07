@@ -1,7 +1,7 @@
 url: http://snazcat.com:6969/tautulli
-status: down
-code: 500
-responseTime: 47
-lastUpdated: 2024-05-07T13:05:50.027Z
+status: up
+code: 200
+responseTime: 129
+lastUpdated: 2024-05-07T13:14:19.915Z
 startTime: 2023-06-17T08:01:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
